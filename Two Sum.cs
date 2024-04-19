@@ -12,3 +12,4 @@ public class Solution {
         throw new ArgumentException("No two sum solution");
     }
 }
+//question-1
